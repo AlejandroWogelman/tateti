@@ -1,0 +1,35 @@
+.caja{
+    width: 60%;
+    height: 85px;
+    margin-bottom: 5px;
+}
+.boton{
+    height: 100%;
+    
+}
+.letra{
+    font-family: 'Press Start 2P', cursive; 
+ font-size: 40px ;
+ color: rgb(240, 240, 240);
+}
+
+.fondo{
+    background: rgb(180,58,58);
+background: linear-gradient(90deg, rgba(180,58,58,1) 4%, rgba(58,141,180,1) 100%);
+}
+
+.tamaño{
+    background-color: darkblue;
+    background-size: 50px;
+    font-size: 50px;
+    border-radius: 20px;
+}
+.Lactual{
+    font-size: 35px;
+    color: brown;
+    font-weight: 800;
+}
+
+.turno{
+    font-size: 20px;
+}
